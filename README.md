@@ -18,11 +18,11 @@
 
 1. Baixando diretamente pelo github.
 
-    <img src="/Imagens/readme/Github Download Repo.png" />
+    <img src="/fechadura/Imagens/readme/Github Download Repo.png" />
 
 2.  Baixando pelo "gitclone" no seu prompt de comando. (Sintaxe: git clone "https://www.site.com")
 
-    <img src="/Imagens/readme/Git clone.png" />
+    <img src="/fechadura/Imagens/readme/Git clone.png" />
     
 <br>
 
