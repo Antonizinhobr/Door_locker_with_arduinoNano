@@ -32,3 +32,4 @@
 2. Projeto para criação de uma fechadura eletrônica, onde o acionamento de abertura da fechadura ocorre pela ativaçao do relé
 
 # Segue abaixo uma imagem do esquema elétrico:
+   <img src="/fechadura/Imagens/readme/Fechadura Eletrônica Arduino.png" />
